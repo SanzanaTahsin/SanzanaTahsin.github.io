@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Larry King",
+        "email": "larrythecat@cat.com",
+        "phone": "099-555-9348"
+    },
+    {
+        "name": "Sana T",
+        "email": "u6138302@au.edu",
+        "phone": "111-111-111"
+    },
+    {
+        "name": "John Snow",
+        "email": "jsnow@dragon.com",
+        "phone": "987-567-8887"
+    },
+    {
+		"name": "Steven Wu",
+		"email": "steven@woohoo.com",
+		"phone": "420-420-420"
+	},
+	{
+		"name": "Angela Jeff",
+		"email": "aj@caturday.com",
+		"phone": "747-540-7374"
+	},
+	{
+		"name": "Bob Smith",
+		"email": "bobthecat@catking.com",
+		"phone": "098-134-4325"
+	},
+	{
+		"name": "Dave West",
+		"email": "davethecat@catworld.com",
+		"phone": "728-606-5103"
+	},
+	{
+		"name": "William Martin",
+		"email": "willmartin@msm.com",
+		"phone": "669-567-9868"
+	}
+    
+]
